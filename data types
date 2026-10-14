@@ -1,0 +1,35 @@
+//int data types
+public clas Main {
+  public static void main(String[] args) {
+    int a = 10;
+    int b = 20;
+    int sum = a+b;
+    System.out.println("A = " + a);
+      System.out.println("B = " + b);
+      System.out.println("Sum = " + sum);
+  }
+}
+
+//float
+public class Main {
+  public static void main(String[] args) {
+    float a = 10.5f;
+    float b = 20.5f;
+    float sum = a+b;
+    System.out.println("A = " + a);
+      System.out.println("B = " + b);
+      System.out.println("Sum = " + sum);
+  }
+}
+
+//double
+public class Main {
+  public static void main(String[] args) {
+    double a = 10.55;
+    double b = 20.75;
+    double sum = a+b;
+    System.out.println("A = " + a);
+      System.out.println("B = " + b);
+      System.out.println("Sum = " + sum);
+  }
+}
